@@ -679,6 +679,7 @@
     .select {
         height: 40px;
         margin: 8px;
+        -moz-appearance: listbox;
     }    .select select {
             font-size: 16px;
             height: 40px;
